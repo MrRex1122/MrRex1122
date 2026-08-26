@@ -79,12 +79,6 @@ Backend, automation, and integration engineer with **6+ years of hands-on progra
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrRex1122&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
 ### 🎓 Education & achievements
 
 - **Bachelor of Computer Science (Big Data)**, University of Wollongong — awarded 24 July 2026 (UOW Dubai → UOW Australia)
