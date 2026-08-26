@@ -17,7 +17,7 @@ Backend, automation, and integration engineer with **6+ years of hands-on progra
 
 ### 🔭 Currently building
 
-- **GenVish** — a durable async job runtime (Python `asyncio`, SQLite WAL, leases, crash recovery, idempotency, bounded retries), cross-language contracts between Python and TypeScript/Node, OAuth-based integrations (Gmail, Telegram, Brave Search), and LLM tool-calling workflows with Structured Outputs. Currently building an automated **website audit & lead-discovery pipeline**: crawls public business sites, evaluates metadata/SEO and technical signals, and routes low-scoring prospects into downstream outreach workflows.
+- **GenVish** — a durable async job runtime (Python `asyncio`, SQLite WAL, leases, crash recovery, idempotency, bounded retries), cross-language contracts between Python and TypeScript/Node, OAuth-based integrations (Gmail, Telegram, Brave Search), and LLM tool-calling workflows with Structured Outputs. Currently building an automated **website audit & lead-discovery pipeline**: crawls public business sites, runs accessibility (axe-core) and performance (CrUX) checks alongside SEO/technical audits, generates PDF audit reports and fixed-price proposals, and follows up through a Gmail OAuth outreach flow with a controlled send queue, bounce detection, and AI-assisted reply classification — all behind a governance-gated CI pipeline (short-lived branches, mandatory quality gate, automated squash-merge).
 - **MIND** — AI-driven lead-sourcing and enrichment workflows: researching and scraping target-company websites, using the Hunter API to identify contacts, and structuring leads for downstream processing, applying Apollo-style prospecting concepts and CRM-oriented lead handling.
 - One measurable result so far: a proposal/document workflow at GenVish went from **~60–90 minutes of manual work to ~1 minute**.
 
@@ -25,6 +25,7 @@ Backend, automation, and integration engineer with **6+ years of hands-on progra
 
 | Project | What it does | Stack |
 |---|---|---|
+| **GenVish Audit & Outreach Engine** | Automated website audit + lead-discovery pipeline: SEO/accessibility (axe-core)/performance (CrUX) audits → PDF report & fixed-price proposal generation → Gmail OAuth outreach with a controlled send queue, bounce detection, and AI reply classification, shipped through a governance-gated CI (autonomous short-lived-branch agents, mandatory quality gate, automated squash-merge) | Python, TypeScript, Playwright, axe-core, Gmail API, OpenAI API, Docker, GitHub Actions |
 | **ReMo Matcher** | Matches ~100 messy free-form requests per batch against an ~800,000-row supplier catalogue — taxonomy routing → DuckDB retrieval → deterministic scoring gates → constrained Gemini shortlist, with regression/golden/adversarial test suites | Python, Streamlit, DuckDB, Gemini API, Railway, Cloudflare R2 |
 | **AI Agent Travel Platform** | Multi-module flight search/booking/rescheduling agent with structured tool calling, idempotency, retries, and a simple circuit breaker (university project, CSCI318 — 80/100 Distinction) | Java 21, Spring Boot 3, Kafka, LangChain4j, Docker |
 | **AU Census RAG Analyzer** | Hybrid FAISS + BM25 retrieval with deterministic numeric answering, LoRA/PEFT fine-tuning on Llama 3.2 1B | Streamlit, FAISS, BM25, Unsloth, TRL, MLflow |
@@ -52,6 +53,8 @@ Backend, automation, and integration engineer with **6+ years of hands-on progra
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![VitePress](https://img.shields.io/badge/VitePress-5C73E7?style=flat-square)
 
 **APIs, automation & AI**
 
@@ -60,6 +63,8 @@ Backend, automation, and integration engineer with **6+ years of hands-on progra
 ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![axe-core](https://img.shields.io/badge/axe--core-8046F1?style=flat-square)
+![APScheduler](https://img.shields.io/badge/APScheduler-2E7D32?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Data**
