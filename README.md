@@ -82,12 +82,7 @@ Backend, automation, and integration engineer with **6+ years of hands-on progra
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRex1122&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Evgenii's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrRex1122&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRex1122&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="165"/>
 </p>
 
 ### 🎓 Education & achievements
