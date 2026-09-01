@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Evgenii Korolev 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Backend+%2B+Automation+%2B+Integration+Engineer;Python+%7C+Java+%7C+TypeScript+%7C+SQL;Durable+job+runtimes+%C2%B7+API+integrations+%C2%B7+applied+LLM+workflows;Technical+Co-Founder+%40+GenVish" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Backend+%2B+Automation+%2B+Integration+Engineer;Python+%7C+Java+%7C+TypeScript+%7C+SQL;API+integrations+%C2%B7+applied+LLM+workflows;Technical+Co-Founder+%40+GenVish" alt="Typing SVG" />
 </p>
 
 <p align="center">
