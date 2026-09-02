@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Evgenii Korolev 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Backend+%2B+Automation+%2B+Integration+Engineer;Python+%7C+Java+%7C+TypeScript+%7C+SQL;API+integrations+%C2%B7+applied+LLM+workflows;Technical+Co-Founder+%40+GenVish" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Backend+%2B+Automation+%2B+Integration+Engineer;Python+%7C+Java+%7C+TypeScript+%7C+SQL;Durable+job+runtimes+%C2%B7+API+integrations+%C2%B7+applied+LLM+workflows;Technical+Co-Founder+%40+GenVish" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Backend, automation, and integration engineer with **6+ years of hands-on progra
 ### 🔭 Currently building
 
 - **GenVish** — a durable async job runtime (Python `asyncio`, SQLite WAL, leases, crash recovery, idempotency, bounded retries), cross-language contracts between Python and TypeScript/Node, OAuth-based integrations (Gmail, Telegram, Brave Search), and LLM tool-calling workflows with Structured Outputs. Currently building an automated **website audit & lead-discovery pipeline**: crawls public business sites, runs accessibility (axe-core) and performance (CrUX) checks alongside SEO/technical audits, generates PDF audit reports and fixed-price proposals, and follows up through a Gmail OAuth outreach flow with a controlled send queue, bounce detection, and AI-assisted reply classification — all behind a governance-gated CI pipeline (short-lived branches, mandatory quality gate, automated squash-merge).
-- **MIND** — AI-driven lead-sourcing and enrichment workflows: researching and scraping target-company websites, using the Hunter API to identify contacts, and structuring leads for downstream processing, applying Apollo-style prospecting concepts and CRM-oriented lead handling.
+- **MIND** (real-time AI voice-translation video-conferencing platform for business) — as Automation Engineer, built an AI-driven lead-sourcing and enrichment project: researching and scraping target-company websites, using the Hunter API to identify contacts, and structuring leads for downstream processing, applying Apollo-style prospecting concepts and CRM-oriented lead handling.
 - One measurable result so far: a proposal/document workflow at GenVish went from **~60–90 minutes of manual work to ~1 minute**.
 
 ### 🚀 Flagship projects
