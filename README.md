@@ -13,12 +13,12 @@
 
 ### 👨‍💻 About me
 
-Backend, automation, and integration engineer with **6+ years of hands-on programming**, including **5+ years with Python** and **4+ years with Java**. I build durable backend systems, API integrations, browser automation, and applied AI/LLM workflows — from ambiguous requirements through architecture, implementation, testing, deployment, and iteration. Currently a **Technical Co-Founder at GenVish** and an **Automation Engineer at MIND**. Bachelor of Computer Science (Big Data), University of Wollongong.
+Backend, automation, and integration engineer with **6+ years of hands-on programming**, including **5+ years with Python** and **4+ years with Java**. I build durable backend systems, API integrations, browser automation, and applied AI/LLM workflows — from ambiguous requirements through architecture, implementation, testing, deployment, and iteration. Currently a **Technical Co-Founder at GenVish** and an **Automation Engineer at InterMIND**. Bachelor of Computer Science (Big Data), University of Wollongong.
 
 ### 🔭 Currently building
 
 - **GenVish** — a durable async job runtime (Python `asyncio`, SQLite WAL, leases, crash recovery, idempotency, bounded retries), cross-language contracts between Python and TypeScript/Node, OAuth-based integrations (Gmail, Telegram, Brave Search), and LLM tool-calling workflows with Structured Outputs. Currently building an automated **website audit & lead-discovery pipeline**: crawls public business sites, runs accessibility (axe-core) and performance (CrUX) checks alongside SEO/technical audits, generates PDF audit reports and fixed-price proposals, and follows up through a Gmail OAuth outreach flow with a controlled send queue, bounce detection, and AI-assisted reply classification — all behind a governance-gated CI pipeline (short-lived branches, mandatory quality gate, automated squash-merge).
-- **MIND** (real-time AI voice-translation video-conferencing platform for business) — as Automation Engineer, built an AI-driven lead-sourcing and enrichment project: researching and scraping target-company websites, using the Hunter API to identify contacts, and structuring leads for downstream processing, applying Apollo-style prospecting concepts and CRM-oriented lead handling.
+- **[InterMIND](https://intermind.com)** (real-time AI voice-translation video-conferencing platform for business) — as Automation Engineer, built an AI-driven lead-sourcing and enrichment project: researching and scraping target-company websites, using the Hunter API to identify contacts, and structuring leads for downstream processing, applying Apollo-style prospecting concepts and CRM-oriented lead handling.
 - One measurable result so far: a proposal/document workflow at GenVish went from **~60–90 minutes of manual work to ~1 minute**.
 
 ### 🚀 Flagship projects
