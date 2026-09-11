@@ -18,27 +18,27 @@ Recent Computer Science graduate building reliable backend services, API integra
 ### 🔭 Current work
 
 - **Software Engineer — GenVish (Independent Project)**  
-  Building a Python + TypeScript/Playwright website-intelligence and automation platform with durable SQLite jobs, idempotency, leases, crash recovery, API integrations, controlled AI workflows, and CI-backed release gates. Current main is backed by **2,000+ automated tests**.
+  Building production web, automation, and website-intelligence systems across Python and TypeScript, with durable background jobs, browser automation, API integrations, structured AI workflows, testing, and deployment.
 
 - **Automation Engineer — [InterMIND](https://intermind.com/) (Contract)**  
   Built and maintain a B2B partner-discovery and outreach workflow covering company research, qualification, contact enrichment, structured outreach state, and human handoff.
 
 ### 🚀 Selected work
 
+#### GenVish Web Audit & Outreach Platform
+Website-intelligence and controlled outreach system that discovers businesses, audits bounded first-party pages across SEO, accessibility, conversion, and performance signals, produces structured reports, and coordinates downstream outreach with explicit validation and human control.
+
+`Python` · `TypeScript` · `Playwright` · `SQLite` · `OpenAI API` · `Gmail API` · `Docker`
+
+#### [GenVish Site](https://genvish.dev/)
+Production website and lead-capture platform with a custom responsive frontend, Cloudflare Worker API, Turnstile validation, email delivery, analytics, automated browser QA, accessibility checks, and CI/CD release gates.
+
+`TypeScript` · `VitePress` · `Cloudflare Workers` · `Playwright` · `axe-core` · `GitHub Actions`
+
 #### [ReMo Matcher](https://github.com/MrRex1122/ReMo_ETL_Project)
 Matches roughly **100 messy free-form requests per batch** against an approximately **800,000-row supplier catalogue** using DuckDB retrieval, deterministic compatibility checks, and a constrained Gemini shortlist. A typical proposal-preparation workflow dropped from roughly **60–90 minutes to ~1 minute**.
 
 `Python` · `Streamlit` · `DuckDB` · `Gemini API`
-
-#### [AI Agent Travel Platform](https://github.com/MrRex1122/Travel-Agent)
-Java/Spring Boot travel agent with structured tool calling, Kafka-backed workflows, idempotency, retries, and a simple circuit breaker.
-
-`Java 21` · `Spring Boot` · `Kafka` · `LangChain4j` · `Docker`
-
-#### [AU Census RAG Analyzer](https://github.com/MrRex1122/AU-Census-RAG-Analyzer)
-Hybrid retrieval and numeric-answering project using FAISS + BM25, with LoRA/PEFT fine-tuning on Llama 3.2 1B.
-
-`Python` · `FAISS` · `BM25` · `Streamlit` · `MLflow`
 
 ### 🛠️ Core toolkit
 
